@@ -2,7 +2,8 @@
 
 **A casual endless runner built in Unity and playable in your browser.**
 
-👉 [Play Now on GitHub Pages](https://github.com/Asad-Ur-R/Endless-Runner-Game)
+👉 [Play Now on GitHub Pages](https://github.com/Asad-Ur-R/Endless-Runner-Game) OR
+👉 [Play Now](https://asad02.itch.io/endless-runner)
 📦 [Source Code on GitHub](https://github.com/yourusername/unity-endless-runner)
 
 ---
