@@ -43,7 +43,8 @@
 
 - Made with ❤️ by **Asad Ur Rehman**
 - 🎓 BS Data Science Student at Sir Syed University
-  
+
+- 💼 Linkedin: https://www.linkedin.com/in/asad-ur-rehman-108439285/
 - 📧 Contact: asadrehman.shamsi@gmail.com
   
 ---
